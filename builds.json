@@ -1,0 +1,258 @@
+[
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Nemesis + Artemis (critical hits)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Stygian Blade with the Aspect of Nemesis and Artemis boons is a critical hit build. After you use your Special, the Aspect of Nemesis lets your Attack deal Critical damage for 3 seconds, and its upgrades raise the Bonus Critical Chance from 15% to 30%. Artemis boons add even more critical chance and critical damage, so you play by using the Special and then following up with Attacks. The Adamant Arrowhead keepsake, given by Artemis, makes her the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Nemesis + Artemis (critical hits)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Stygian Blade with the Aspect of Nemesis, take these Artemis boons first: Deadly Strike (stronger Attack with a chance to deal Critical damage), Deadly Flourish for the Special, and Pressure Points (any damage you deal has a chance to be Critical). Then add Clean Kill (Critical effects deal even more damage) and Hide Breaker (Critical effects deal more damage to Armor). Good hammers are Cruel Thrust (+200% Thrust damage and +40% Critical chance) and Breaching Slash (+300% damage to Armor). Cruel Thrust cannot be combined with World Splitter or Flurry Slash."
+  },
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Nemesis + Artemis (critical hits)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Stygian Blade Aspect of Nemesis build depends on Critical hits. The aspect only allows your Attack to deal Critical damage for 3 seconds after the Special, so you must keep alternating Special and Attack. Against enemies with Armor, take Hide Breaker or the Breaching Slash hammer, because both are made to deal extra damage to Armor. Pressure Points gives a chance of Critical damage to damage that does not come from the Attack, which covers the gaps when you cannot chain the Special."
+  },
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Arthur + Athena (defensive)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Stygian Blade with the Aspect of Arthur and Athena boons is a defensive build. The Aspect of Arthur gives you Holy Excalibur and +50 to your Life Total, and it changes your move set: the Heavy Attack and the Special create an aura that slows foes, strongly slows enemy projectiles and disables floor and wall traps. The aura lasts 8 seconds. Athena boons add Deflect and damage resistance on top. The Owl Pendant keepsake, given by Athena, makes her the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Arthur + Athena (defensive)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Stygian Blade with the Aspect of Arthur, prioritize Athena boons: Divine Strike and Divine Flourish (an Attack and a Special that can Deflect), Holy Shield (after you take damage, damage nearby foes and briefly Deflect), Bronze Skin (resist damage from foes' attacks), Divine Protection (a barrier that negates incoming damage) and Brilliant Riposte (deflected attacks deal more damage). The hammer made for Arthur is Greater Consecration: the Holy Excalibur aura is 45% larger and makes foes 10% slower."
+  },
+  {
+    "entidad": "Build: Stygian Blade + Aspect of Arthur + Athena (defensive)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Stygian Blade Aspect of Arthur build has two limits. First, the move set changes, so Cruel Thrust, Flurry Slash and World Splitter are incompatible with the Aspect of Arthur and must not be chosen. Second, the aspect upgrades raise Aura Damage Reduction from 20% to 40% instead of raising attack damage, so you should also pick a damage source, for example Ares' Urge to Kill, which makes your Attack, Special and Cast deal more damage."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Zeus + Zeus (lightning)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Shield of Chaos with the Aspect of Zeus and Zeus boons is a lightning build. The Aspect of Zeus replaces your Special with the Blitz Disc, which deals rapid damage and returns on command, and your Attack is not disabled. Zeus boons add lightning bolts and chain lightning on top, so the disc and the lightning hit foes at the same time. The Thunder Signet keepsake, given by Zeus, makes him the first god to offer a boon, which helps because this build needs several Zeus boons."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Zeus + Zeus (lightning)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Shield of Chaos with the Aspect of Zeus, take these Zeus boons: Thunder Flourish (your Special causes a lightning bolt to strike nearby foes), Lightning Strike (your Attack emits chain-lightning), Splitting Bolt (all lightning effects create an additional burst), High Voltage (bigger lightning bolts), Double Strike (bolts may strike twice) and Static Discharge (lightning also makes foes Jolted). Shield hammers that support the disc are Dread Flight (up to 4 additional foes before it returns), Charged Flight (hold Special for up to +200% base damage) and Explosive Return (50 damage when you catch it)."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Zeus + Zeus (lightning)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Shield of Chaos Aspect of Zeus build gets most of its damage from the Blitz Disc and from Zeus boons, so it is weak early in a run if Zeus does not offer boons. Use the Thunder Signet keepsake to get Zeus first. Because Special boons and Cast boons use different slots, you can still take boons from other gods for your Cast, Dash and Call, but lightning boons are what multiply the damage of this build."
+  },
+  {
+    "entidad": "Build: Eternal Spear + Aspect of Hades + Ares (Doom)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Eternal Spear with the Aspect of Hades and Ares boons is a Doom build. In the Aspect of Hades your Spin Attack becomes Punishing Sweep, a huge spin that makes foes take more Attack and Special damage for 10 seconds. Ares boons add Doom, a delayed damage effect, to your Attack and Special, so there are two separate sources of extra damage. The Blood-Filled Vial keepsake, given by Ares, makes him the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Eternal Spear + Aspect of Hades + Ares (Doom)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Eternal Spear with the Aspect of Hades, take these Ares boons: Curse of Agony (your Attack inflicts Doom), Curse of Pain (your Special inflicts Doom), Impending Doom (Doom deals more damage after a slightly longer time), Dire Misfortune (Doom deals more damage when applied several times) and Curse of Vengeance (inflict Doom on surrounding foes after you take damage). Spear hammers that fit the spin are Massive Spin (+125% damage and a larger area), Quick Spin (charges and recovers faster) and Flaring Spin (charging makes you Sturdy and pulses 40 damage)."
+  },
+  {
+    "entidad": "Build: Eternal Spear + Aspect of Hades + Ares (Doom)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Eternal Spear Aspect of Hades build with Ares Doom relies on the Spin Attack to open each fight, and Punishing Sweep only increases damage for 10 seconds, so you need to renew it. Doom has a delay, which is why Impending Doom trades speed for damage, so enemies may still attack you while it ticks. Flaring Spin makes you Sturdy while charging and Curse of Vengeance applies Doom when you are hit, which helps cover that gap."
+  },
+  {
+    "entidad": "Build: Twin Fists + Aspect of Gilgamesh (Maim)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Twin Fists with the Aspect of Gilgamesh gives you the Claws of Enkidu, whose Dash-Upper can Maim foes. The build is based on applying Maim and then taking advantage of it. The Rending Claws hammer makes Maim-afflicted foes take +25% damage and move 30% slower, so it is the hammer that is made for this aspect. Explosive Upper is a second hammer, which makes the Dash-Upper deal +100% damage in an area."
+  },
+  {
+    "entidad": "Build: Twin Fists + Aspect of Gilgamesh (Maim)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Twin Fists Aspect of Gilgamesh build only works when the Dash-Upper lands, because that is what applies Maim. Rending Claws does nothing against foes that are not Maim-afflicted, so you should use the Dash-Upper on the dangerous enemies first. Explosive Upper helps because it makes the Dash-Upper hit a whole area, which makes it easier to Maim several foes at once."
+  },
+  {
+    "entidad": "Build: Adamant Rail + Aspect of Lucifer (Igneus Eden beam)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Adamant Rail with the Aspect of Lucifer gives you the Igneus Eden, which launches volatile Hellfire. Several Adamant Rail hammers are made for the Igneus Eden Attack: Concentrated Beam (damage to a foe ramps up 100% faster), Flash Fire (starts firing and fires 50% faster with 15% more range), Triple Beam (fires 3 beams in a spread pattern) and Greater Inferno (Hellfire radiates +250% damage in a larger area)."
+  },
+  {
+    "entidad": "Build: Adamant Rail + Aspect of Lucifer (Igneus Eden beam)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Adamant Rail with the Aspect of Lucifer, choose Concentrated Beam to make damage ramp up faster on a single foe, or Triple Beam to hit groups. Greater Inferno gives the Hellfire a much larger damage area. Eternal Chamber gives the Igneus Eden infinite ammo, but its damage no longer ramps, so it should not be combined with Concentrated Beam, which depends on the ramp."
+  },
+  {
+    "entidad": "Build: Adamant Rail + Aspect of Lucifer (Igneus Eden beam)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Adamant Rail Aspect of Lucifer build is limited by the Igneus Eden damage ramp. Because damage ramps up while the beam stays on a foe, fights against many small enemies are weaker than fights against single targets. Eternal Chamber removes ammo problems but also removes the ramp, so choosing it is a trade-off. Flash Fire helps by making the Igneus Eden Attack start firing and fire 50% faster."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Beowulf + Athena (tank)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Shield of Chaos with the Aspect of Beowulf gives you Naegling's Board, a different move set where Heavy Attack and Special change and your Cast empowers the Bull Rush. The price is that you take +10% damage. Athena boons are a natural pair because they reduce incoming damage: Bronze Skin resists damage from foes' attacks and Divine Protection gives a barrier that negates incoming damage. The Owl Pendant keepsake makes Athena the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Beowulf + Athena (tank)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Shield of Chaos with the Aspect of Beowulf, the hammers made for Naegling's Board are Unyielding Defense (after using your Naegling's Board Cast, you are Sturdy for 3 seconds) and Ferocious Guard (after blocking a foe, gain +20% damage and move speed for 10 seconds). With Athena, add Holy Shield (after you take damage, damage nearby foes and briefly Deflect) and Athena's Aid (a Call that makes you Invulnerable and Deflect all attacks for a moment)."
+  },
+  {
+    "entidad": "Build: Shield of Chaos + Aspect of Beowulf + Athena (tank)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Shield of Chaos Aspect of Beowulf build takes +10% damage, so mistakes cost more than with other aspects. Athena's resistance boons (Bronze Skin and Divine Protection) are meant to cover that cost, and Unyielding Defense makes you Sturdy for 3 seconds after using the Naegling's Board Cast. If you cannot find defensive boons early, play carefully."
+  },
+  {
+    "entidad": "Build: Heart-Seeking Bow + Aspect of Rama (Celestial Sharanga)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "Heart-Seeking Bow with the Aspect of Rama gives you the Celestial Sharanga, which can cause Shared Suffering. The Repulse Shot hammer is made for this aspect: your Celestial Sharanga Attack creates a Blast Wave around you, so a ranged weapon gets an answer for enemies that come close. Artemis boons such as True Shot (your Cast seeks foes with a chance to deal Critical damage) and Pressure Points are a possible addition for a ranged weapon."
+  },
+  {
+    "entidad": "Build: Heart-Seeking Bow + Aspect of Rama (Celestial Sharanga)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Heart-Seeking Bow Aspect of Rama build is a ranged build, so it is weakest when enemies are very close. Repulse Shot helps because it creates a Blast Wave around you when you use the Celestial Sharanga Attack, but it is a single hammer, so the build is not fully reliable until you find it. Other bow hammers, such as Sniper Shot (+200% damage to distant foes) and Point-Blank Shot (+150% damage to nearby foes), reward different distances."
+  },
+  {
+    "entidad": "Build: Aphrodite Weak boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "The Aphrodite Weak build works with any weapon. Aphrodite boons inflict Weak on foes, and other Aphrodite boons make Weak stronger: Heartbreak Strike and Heartbreak Flourish (more damage and Weak on your Attack and Special), Sweet Surrender (Weak-afflicted foes are more susceptible to damage), Broken Resolve (Weak effects are more potent) and Empty Inside (Weak lasts longer). The Eternal Rose keepsake makes Aphrodite the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Aphrodite Weak boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Priority boons and hammers",
+    "fuente": "grupo (propio)",
+    "texto": "For the Aphrodite Weak build, other boons that help are Unhealthy Fixation (Weak effects have a chance to Charm foes), Dying Lament (slain foes damage nearby foes and inflict Weak) and Wave of Despair (after you take damage, damage nearby foes and inflict Weak). Different League lets you resist some damage from nearby foes' attacks, which helps you survive in melee. Weapon choice is open."
+  },
+  {
+    "entidad": "Build: Demeter Chill boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "The Demeter Chill build works with any weapon. Demeter boons add Chill to your abilities: Frost Strike (Attack) and Frost Flourish (Special) apply it directly, and Snow Burst damages nearby foes and inflicts Chill whenever you Cast. Arctic Blast causes a blast when you apply 10 stacks of Chill, Killing Freeze makes foes Slow and Decay when all of them are Chill-afflicted, and Winter Harvest makes Chill-affected foes shatter at low health. The Frostbitten Horn keepsake makes Demeter the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Demeter Chill boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Demeter Chill build is about applying Chill and then triggering Arctic Blast, Killing Freeze and Winter Harvest, so it works best with weapons that hit many foes quickly. Be careful with Rare Crop: it turns your boons Common and then gives them rarity again every few encounters, which is a trade-off for a strong build in the first rooms."
+  },
+  {
+    "entidad": "Build: Dionysus Hangover boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "The Dionysus Hangover build works with any weapon. Drunken Strike (Attack) and Drunken Flourish (Special) inflict Hangover, Numbing Sensation also slows Hangover-afflicted foes, Peer Pressure makes Hangover spread to other nearby foes and Bad Influence deals more damage while several foes are Hangover-afflicted. Trippy Shot and Trippy Flare leave Festive Fog, where Black Out makes Hangover-afflicted foes take bonus damage and High Tolerance makes you take less damage."
+  },
+  {
+    "entidad": "Build: Dionysus Hangover boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Dionysus Hangover build depends on keeping foes in Festive Fog and keeping Hangover on several of them. Black Out and High Tolerance only help while standing in or hitting foes inside Festive Fog, so you must stay in the area. Peer Pressure and Bad Influence need several foes, so the build is weaker against single bosses unless you spread Hangover with your Call."
+  },
+  {
+    "entidad": "Build: Poseidon knockback boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Build overview",
+    "fuente": "grupo (propio)",
+    "texto": "The Poseidon knockback build works with any weapon. Tempest Strike (Attack) and Tempest Flourish (Special) add damage and knock foes away, and Flood Shot does the same for the Cast. Typhoon's Fury deals more damage when you slam foes into barriers, Breaking Wave creates a watery blast when foes hit walls or corners, Razor Shoals Ruptures foes with knock-away effects and Wave Pounding gives knock-away boons bonus damage to bosses. The Conch Shell keepsake makes Poseidon the first god to offer a boon."
+  },
+  {
+    "entidad": "Build: Poseidon knockback boons (any weapon)",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Weak points",
+    "fuente": "grupo (propio)",
+    "texto": "The Poseidon knockback build gets its extra damage from walls and barriers, because Typhoon's Fury and Breaking Wave need foes to be slammed into them. In open rooms it is weaker. Knocking foes away can also push them out of weapon reach. Second Wave shoves foes a second time and Ocean's Bounty makes chamber rewards worth more, so the build also has uses outside of damage."
+  },
+  {
+    "entidad": "Build planning: boon slots, keepsakes and rarity",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Boon slots",
+    "fuente": "grupo (propio)",
+    "texto": "When planning a Hades build, remember that the Attack, Special, Cast, Dash and Call abilities have one boon slot each, so they cannot hold several ability boons. For example, you cannot have both Crush Shot from Aphrodite and Trippy Shot from Dionysus on your Cast, although a god may offer to replace another god's boon in that slot. Exchanging a boon increases its rarity by one while keeping the level."
+  },
+  {
+    "entidad": "Build planning: boon slots, keepsakes and rarity",
+    "categoria": "build",
+    "tipo": "juego",
+    "seccion": "Keepsakes and rarity",
+    "fuente": "grupo (propio)",
+    "texto": "To start a build with a specific god, equip the keepsake given by that god (except Hermes or Chaos): the next time a boon is offered, it will be from that god. There are four standard boon rarities: Common, Rare, Epic and Heroic. Heroic boons come from exchanging an Epic boon, from Ambrosia Delight, or from cultivating boons with Rare Crop from Demeter. Boons from Erebus encounters and mini-boss encounters are more likely to have higher rarities."
+  }
+]

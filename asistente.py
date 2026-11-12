@@ -147,6 +147,14 @@ SYSTEM_REESCRIBIR = (
     "Output only the question and nothing else."
 )
 
+# Palabras que indican que la pregunta depende de la anterior
+PALABRAS_REFERENCIA = {"it", "its", "that", "this", "those", "these", "they", "them", "their",
+                       "he", "she", "his", "her", "one", "and", "also", "same", "other"}
+
+
+def necesita_reescribir(pregunta):
+    return len(set(tokenizar(pregunta)) & PALABRAS_REFERENCIA) > 0
+
 
 def generar(mensajes, max_tokens=300):
     r = ollama.chat(model=MODELO_LLM, messages=mensajes,
@@ -159,7 +167,7 @@ def responder(pregunta, historial):
 
     # Memoria: si hay conversación previa, reescribimos la pregunta para que se entienda sola
     autonoma = pregunta
-    if recientes:
+    if recientes and necesita_reescribir(pregunta):
         conversacion = "\n".join(f"User: {p}\nAssistant: {r}" for p, r in recientes)
         nueva = generar([{"role": "system", "content": SYSTEM_REESCRIBIR},
                          {"role": "user", "content": f"Conversation:\n{conversacion}\n\nLast question: {pregunta}"}],

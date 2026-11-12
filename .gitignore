@@ -6,3 +6,5 @@ ENV/
 
 # Variables de entorno locales (contraseñas/claves API)
 .env
+
+.embeddings.npy

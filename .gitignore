@@ -1,0 +1,8 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Variables de entorno locales (contraseñas/claves API)
+.env

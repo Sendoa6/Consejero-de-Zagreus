@@ -137,10 +137,14 @@ SYSTEM_RAG = (
     "Do not use outside knowledge and do not talk about Hades II. "
     "Be concise (at most 5 sentences) and cite the ids of the passages you used, like [12] [40]."
 )
+
 SYSTEM_REESCRIBIR = (
     "Rewrite the user's last question as a standalone question, using the conversation to resolve "
-    "pronouns and references such as 'it', 'that one' or 'its'. Keep game names exactly as written. "
-    "Output only the rewritten question and nothing else."
+    "pronouns and references such as 'it', 'that one' or 'its'. "
+    "Keep exactly the same meaning: do not change what is being asked and do not add new topics. "
+    "Keep game names exactly as written. "
+    "If the question is already clear on its own, repeat it unchanged. "
+    "Output only the question and nothing else."
 )
 
 
